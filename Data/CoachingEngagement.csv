@@ -1,0 +1,16 @@
+id,dt,ct,status,orgId,name,type,sort
+1,2019-11-15 17:23:42,2018-08-30 08:49:56,active,1000002,Active,engagement,4
+2,2019-11-15 17:23:42,2018-08-30 08:49:56,active,1000002,Passive,engagement,3
+3,2019-11-15 17:23:42,2018-08-30 08:49:56,active,1000002,Off-Task,engagement,2
+4,2019-11-15 17:23:42,2018-08-30 08:49:56,active,1000002,Down Time,engagement,1
+5,2019-10-11 16:32:02,2018-08-30 08:49:56,active,1000002,Listening,learningtask,2
+6,2019-11-22 16:00:39,2018-08-30 08:49:56,active,1000002,Doing/Demonstrating,learningtask,3
+7,2019-10-11 16:32:02,2018-08-30 08:49:56,active,1000002,Reading,learningtask,5
+8,2018-08-30 08:49:56,2018-08-30 08:49:56,active,1000002,Speaking,learningtask,4
+9,2019-10-11 16:32:02,2018-08-30 08:49:56,active,1000002,Writing,learningtask,6
+10,2019-10-11 16:32:02,2018-08-30 08:49:56,active,1000002,None,learningtask,1
+11,2018-08-30 08:49:56,2018-08-30 08:49:56,active,1000002,Whole Class,studentgrouping,1
+12,2018-08-30 08:49:56,2018-08-30 08:49:56,active,1000002,Small Group,studentgrouping,2
+13,2018-08-30 08:49:56,2018-08-30 08:49:56,active,1000002,Partner,studentgrouping,3
+14,2019-04-05 09:09:01,2018-08-30 08:49:56,active,1000002,Independent Work Session,studentgrouping,4
+15,2019-04-05 09:09:01,2018-08-30 08:49:56,active,1000002,No Grouping,studentgrouping,5
