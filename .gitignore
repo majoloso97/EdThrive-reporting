@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+#Cache data
+.DS_Store
+Data/.DS_Store
